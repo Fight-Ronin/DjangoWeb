@@ -1,2 +1,2 @@
 # DjangoWeb
-Personal built by using Django infrastructure.
+Personal blog built by using Django infrastructure.
